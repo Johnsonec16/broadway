@@ -39,4 +39,12 @@ p {
 }
 .bottomlist {
   background-color: dimgray;
+  color: white;
+  font-weight: bold;
+}
+.copyright {
+  font-size: 11px;
+}
+.home, .about, .work, .team, .contact {
+  color: white;
 }
