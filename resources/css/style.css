@@ -19,7 +19,18 @@ h1 {
 #top {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
+  text-align: center;
 }
 .home, .about, .work, .team, .contact {
   color: white;
+}
+#process  {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
 }
