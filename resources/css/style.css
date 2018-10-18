@@ -1,6 +1,9 @@
-body{
+.most {
   text-align: center;
 }
-ul {
+.toplist {
   list-style: none;
+}
+.bottomlist li {
+  display: inline;
 }
