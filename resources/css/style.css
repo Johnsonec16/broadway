@@ -1,9 +1,16 @@
 .most {
   text-align: center;
+  font-family: helvetica;
 }
 .toplist {
   list-style: none;
 }
 .bottomlist li {
   display: inline;
+  font-family: helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
 }
